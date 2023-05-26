@@ -3,7 +3,7 @@
 ## Description:
 This GitHub repository contains a basic dice cube roller app developed in Flutter. The app allows users to simulate rolling a dice cube and displays a random number between 1 and 6 as the result. It serves as a simple demonstration of Flutter app development and provides a foundation for building more complex dice-related applications.
 
-##Key Features:
+## Key Features:
 - Simulates rolling a dice cube with realistic animation.
 - Generates random numbers between 1 and 6 to emulate the outcome of a dice roll.
 - User-friendly interface with intuitive controls for rolling the dice.
